@@ -1,3 +1,3 @@
 Vignesh Biji C
 49
-CEC SEM 1 Python Lab by VijayShankar sir
+CEC SEM 1 Python Lab 
